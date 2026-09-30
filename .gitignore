@@ -1,0 +1,15 @@
+.DS_Store
+.claude/
+.codex/
+.env
+.env.*
+!.env.example
+build/
+.build/
+DerivedData/
+xcuserdata/
+*.xcuserstate
+*.app
+*.dSYM/
+*.p12
+*.mobileprovision
